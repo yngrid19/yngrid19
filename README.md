@@ -6,4 +6,6 @@ Meu nome é yngrid ferreira
 - Estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  Voce~pode entrar em contato comigo 
+  Você pode entrar em contato comigo pelo meu email: 00001133560611sp@al.educacao.sp.gov.br
+
+  Tchau, e muitas felicidades
